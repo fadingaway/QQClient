@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/exit.png</file>
+        <file>Image/min.png</file>
+        <file>Image/setting.png</file>
+        <file>Image/QQTitle.png</file>
+        <file>Image/moreAcct.png</file>
+        <file>Image/dropDown.png</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Image/f.jpg</file>
+        <file>Image/g.jpg</file>
+    </qresource>
+</RCC>
